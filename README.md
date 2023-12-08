@@ -1,4 +1,4 @@
-# resume_builder
+# Resume Builder- Desktop based Java Application
 
 ## Add your files:
 
