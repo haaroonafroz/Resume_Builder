@@ -25,7 +25,7 @@ A sreenshot well be include in the file as well as a CV examples that have been 
 
 ## Authors and acknowledgment:
 
-this project is the idea of group C and its handed to as a starting team for the implementation of the first requirements and features.
+This project is the result of the idea and implementation of a student group at Bauhaus Univesity Weimar. This project is in no way at a completed stage. It requires certain bug fixes and feature additions. Feel free to contribute to this project by forking this project to your own repository and adding pull requests.
 
 ## License:
 
